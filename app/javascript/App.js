@@ -1,8 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import GreetingsComponent from './components/GreetingIndex';
 
 function App() {
-  return (<h1>Hello Word!</h1>);
+  return (
+      <GreetingsComponent/>
+     );
 }
 
 ReactDOM.render(

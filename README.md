@@ -1,8 +1,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Budget-App ](#Budget-App)
-- [Video-Presentation](#Live-Presentaton)
+- [📖 Budget-App ](#hello_rails_react)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
