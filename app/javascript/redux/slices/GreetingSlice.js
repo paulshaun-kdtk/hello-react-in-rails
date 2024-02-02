@@ -32,8 +32,5 @@ const greetingsSlice = createSlice({
   },
 });
 
-// Export the async thunk for use in components
-export { fetchGreetings };
-
 // Export the reducer
 export default greetingsSlice.reducer;

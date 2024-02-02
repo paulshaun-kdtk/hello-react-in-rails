@@ -1,7 +1,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Budget-App ](#hello_rails_react)
+- [📖 hello_rails_react ](#hello_rails_react)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -18,7 +18,7 @@
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
-# 📖 Budget-App <a name="about-project"></a>
+# 📖 hello_rails_react <a name="about-project"></a>
 
 **hello_rails_react** is a web app designed with a rails backend and react frontend all in one project.
 
@@ -80,7 +80,7 @@ Install this project with:
 To run the project, execute the following command:
 
 ```sh
-  rails s
+  bin/dev (or ruby bin/dev if you are on windows)
 ```
 
 ## 👥 Authors <a name="authors"></a>

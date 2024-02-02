@@ -26,3 +26,4 @@ production:
   host:  dpg-cm06e6ta73kc73c13410-a
   port: 5432
   database: <%= ENV['DATABASE_NAME'] %>
+  
