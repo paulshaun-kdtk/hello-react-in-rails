@@ -12,7 +12,7 @@ module HelloRails
     config.load_defaults 7.1
 
     config.assets.enabled = true
-    config.assets.precompile += %w( builds/application.js )
+    config.assets.precompile += %w[builds/application.js]
 
     # Please, add to the `ignore` list any other `lib` subdirectories that do
     # not contain `.rb` files, or that should not be reloaded or eager loaded.
