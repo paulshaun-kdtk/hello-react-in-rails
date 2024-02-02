@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+# Default to port 3000 if not specified
+ENV['PORT'] ||= '3000'
+
+# Start Foreman with the specified Procfile (Procfile.dev) and any additional arguments
+exec 'foreman', 'start', '-f', 'Procfile.dev', *ARGV
